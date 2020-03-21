@@ -1,0 +1,255 @@
+{
+  "AllStashNames": [
+    "Ignore",
+    "k",
+    "f",
+    "S1",
+    "S2",
+    "M",
+    "c",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+  ],
+  "CustomFilterOptions": {
+    "Unique Rings": {
+      "Value": "6",
+      "Index": 14
+    },
+    "Unique Jewel": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "High level": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "High Jewelery": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Fragments": {
+      "Value": "F",
+      "Index": 2
+    },
+    "Splinters": {
+      "Value": "F",
+      "Index": 2
+    },
+    "Offerings": {
+      "Value": "F",
+      "Index": 2
+    },
+    "Other Maps": {
+      "Value": "M",
+      "Index": 4
+    },
+    "Resonator 3": {
+      "Value": "10",
+      "Index": 18
+    },
+    "Resonator 2": {
+      "Value": "10",
+      "Index": 18
+    },
+    "Resonator 1": {
+      "Value": "10",
+      "Index": 18
+    },
+    "Currency": {
+      "Value": "k",
+      "Index": 0
+    },
+    "Essences": {
+      "Value": "S1",
+      "Index": 2
+    },
+    "Fossils": {
+      "Value": "11",
+      "Index": 19
+    },
+    "Breach Splinter": {
+      "Value": "F",
+      "Index": 2
+    },
+    "Unique": {
+      "Value": "Q2",
+      "Index": 5
+    },
+    "Divination Cards": {
+      "Value": "f",
+      "Index": 1
+    },
+    "Gems": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Leaguestones": {
+      "Value": "S2",
+      "Index": 3
+    },
+    "Jewels": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Abyss Jewels": {
+      "Value": "8",
+      "Index": 16
+    },
+    "Flasks": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Talisman": {
+      "Value": "6",
+      "Index": 11
+    },
+    "Jewelery": {
+      "Value": "6",
+      "Index": 11
+    },
+    "Abyss belt": {
+      "Value": "7",
+      "Index": 15
+    },
+    "Identified rare": {
+      "Value": "2",
+      "Index": 10
+    },
+    "Shaper": {
+      "Value": "20",
+      "Index": 28
+    },
+    "Elder": {
+      "Value": "20",
+      "Index": 28
+    },
+    "Fractured": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Sorcerer Boots": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Leather Belt": {
+      "Value": "c",
+      "Index": 5
+    },
+    "Gold Amulet": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Chisel Recipe": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Quality Gems": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Quality Flasks": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Weapons": {
+      "Value": "4",
+      "Index": 9
+    },
+    "Jewelry": {
+      "Value": "c",
+      "Index": 5
+    },
+    "Belts": {
+      "Value": "c",
+      "Index": 5
+    },
+    "Helms": {
+      "Value": "5",
+      "Index": 10
+    },
+    "Body Armours": {
+      "Value": "c",
+      "Index": 5
+    },
+    "Boots": {
+      "Value": "5",
+      "Index": 10
+    },
+    "Gloves": {
+      "Value": "5",
+      "Index": 10
+    },
+    "TimeLess Splinter": {
+      "Value": "F",
+      "Index": 2
+    },
+    "Incubator": {
+      "Value": "1",
+      "Index": 9
+    },
+    "Prophecy": {
+      "Value": "9",
+      "Index": 17
+    },
+    "Shore Shaped": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Strand Shaped": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Shaped Maps": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "Uniq Maps": {
+      "Value": "Ignore",
+      "Index": -1
+    },
+    "BodyParts": {
+      "Value": "1",
+      "Index": 9
+    },
+    "Oils": {
+      "Value": "2",
+      "Index": 10
+    }
+  },
+  "CustomRefillOptions": {
+    "Portal Scrolls": {
+      "Value": 0
+    },
+    "Scrolls of Wisdom": {
+      "Value": 0
+    }
+  },
+  "Settings": {},
+  "RequireHotkey": true,
+  "DropHotkey": {
+    "Value": 114
+  },
+  "ExtraDelay": {
+    "Value": 18
+  },
+  "BlockInput": false,
+  "VisitTabWhenDone": true,
+  "TabToVisitWhenDone": {
+    "Value": 0
+  },
+  "RefillCurrency": false,
+  "CurrencyStashTab": {
+    "Value": "2",
+    "Index": 7
+  },
+  "AllowHaveMore": false,
+  "UseArrow": true,
+  "MouseSpeed": {
+    "Value": 10
+  },
+  "Enable": true
+}

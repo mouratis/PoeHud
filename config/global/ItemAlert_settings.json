@@ -1,0 +1,34 @@
+{
+  "DimOtherByPercent": {
+    "Value": 100
+  },
+  "Alternative": false,
+  "ShowItemOnMap": true,
+  "FilePath": "config/my.filter",
+  "WithBorder": true,
+  "WithSound": false,
+  "LootIcon": {
+    "Value": 19
+  },
+  "LootIconBorderColor": true,
+  "ItemAlertUpdateTime": {
+    "Value": 50
+  },
+  "ItemAlertLimitWork": {
+    "Value": 250
+  },
+  "ShowText": true,
+  "HideOthers": true,
+  "TextSize": {
+    "Value": 16
+  },
+  "DimOtherByPercentToggle": true,
+  "BorderSettings": true,
+  "UseDiamond": true,
+  "MultiThreading": true,
+  "MultiThreadingWhenItemMoreThan": {
+    "Value": 30
+  },
+  "Enable": true,
+  "Debug": false
+}

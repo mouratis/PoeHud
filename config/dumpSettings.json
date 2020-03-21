@@ -1,0 +1,107 @@
+{
+  "RefreshArea": {},
+  "ShowDebugWindow": {
+    "Value": false
+  },
+  "Profiles": {
+    "Value": "global"
+  },
+  "Theme": {
+    "Value": "Q2"
+  },
+  "KeyMenuRoot": {},
+  "MainMenuKeyToggle": {
+    "Value": 123
+  },
+  "MultiThreadLoadPlugins": {
+    "Value": false
+  },
+  "MultiThreadingPatternScan": {
+    "Value": false
+  },
+  "AreaChangeMultiThread": {
+    "Value": false
+  },
+  "CoroutineMultiThreading": {
+    "Value": false
+  },
+  "ParseEntitiesInMultiThread": {
+    "Value": true
+  },
+  "CollectDebugInformation": {
+    "Value": true
+  },
+  "Threads": {
+    "Value": 6
+  },
+  "CriticalTimeForPlugin": {
+    "Value": 651
+  },
+  "PerfomanceRoot": {},
+  "TargetFps": {
+    "Value": 100
+  },
+  "TargetParallelFPS": {
+    "Value": 80
+  },
+  "EntitiesUpdate": {
+    "Value": 31
+  },
+  "LogReadMemoryError": {
+    "Value": false
+  },
+  "DynamicFPS": {
+    "Value": true
+  },
+  "DynamicPercent": {
+    "Value": 99
+  },
+  "MinimalFpsForDynamic": {
+    "Value": 60
+  },
+  "ParseServerEntities": {
+    "Value": true
+  },
+  "CollectEntitiesInParallelWhenMoreThanX": {
+    "Value": true
+  },
+  "LimitDrawPlot": {
+    "Value": 11.078
+  },
+  "VSync": {
+    "Value": false
+  },
+  "Font": {
+    "Value": "JetBrainsMono-Regular:13"
+  },
+  "FontSize": {
+    "Value": 14
+  },
+  "ShowDebugLog": {
+    "Value": false
+  },
+  "ShowDemoWindow": {
+    "Value": false
+  },
+  "Volume": {
+    "Value": 48
+  },
+  "Enable": {
+    "Value": false
+  },
+  "ForceForeground": {
+    "Value": false
+  },
+  "VideoAdapter": {
+    "Value": "Intel(R) HD Graphics 4600"
+  },
+  "TickMethod": {
+    "Value": "ManualThreads"
+  },
+  "InputSystem": {
+    "Value": "Form"
+  },
+  "DebugWindowSeparator": {
+    "Value": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "SizeDefaultIcon": {
+    "Value": 16
+  },
+  "SizeNpcIcon": {
+    "Value": 15
+  },
+  "SizeEntityWhiteIcon": {
+    "Value": 11
+  },
+  "SizeEntityMagicIcon": {
+    "Value": 12
+  },
+  "SizeEntityRareIcon": {
+    "Value": 15
+  },
+  "SizeEntityUniqueIcon": {
+    "Value": 15
+  },
+  "SizeBreachChestIcon": {
+    "Value": 10
+  },
+  "SizeChestIcon": {
+    "Value": 20
+  },
+  "ShowSmallChest": false,
+  "SizeSmallChestIcon": {
+    "Value": 10
+  },
+  "SizeMiscIcon": {
+    "Value": 17
+  },
+  "SizeShrineIcon": {
+    "Value": 21
+  },
+  "SecondaryIconSize": {
+    "Value": 10
+  },
+  "HideSize": {
+    "Value": 0.683
+  },
+  "LogDebugInformation": true,
+  "Reparse": {},
+  "MultiThreading": true,
+  "MultiThreadingWhenEntityMoreThan": {
+    "Value": 10
+  },
+  "HidePlayers": false,
+  "HideMinions": false,
+  "Enable": true
+}

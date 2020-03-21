@@ -1,0 +1,41 @@
+2020-03-22 01:11:21.872 +02:00 [Information] --------------- Start hud at 3/22/2020 1:11:21 AM ---------------
+2020-03-22 01:11:21.907 +02:00 [Information] PerfTimer =-> Create new offsets (3.2128 ms) Thread #[1]
+2020-03-22 01:11:22.132 +02:00 [Information] PerfTimer =-> Load manual fonts (19.51 ms) Thread #[1]
+2020-03-22 01:11:22.249 +02:00 [Information] PerfTimer =-> Build Font Texture (116.8262 ms) Thread #[1]
+2020-03-22 01:11:22.252 +02:00 [Information] PerfTimer =-> Init ImGui (153.5305 ms) Thread #[1]
+2020-03-22 01:11:22.277 +02:00 [Information] PerfTimer =-> Init ImGuiRender (186.8693 ms) Thread #[1]
+2020-03-22 01:11:22.295 +02:00 [Information] PerfTimer =-> Init SpriteRender (17.3812 ms) Thread #[1]
+2020-03-22 01:11:22.306 +02:00 [Information] PerfTimer =-> DX11 Load (272.8135 ms) Thread #[1]
+2020-03-22 01:11:22.465 +02:00 [Information] PerfTimer =-> Menu Window Create (88.6905 ms) Thread #[1]
+2020-03-22 01:11:23.089 +02:00 [Information] PerfTimer =-> Load files from memory (505.783 ms) Thread #[14]
+2020-03-22 01:11:23.243 +02:00 [Warning] [FlaskManagerSettings] => FlaskSettings (FlaskManager.FlaskSetting[]) FlaskManager.FlaskSetting[] not supported for menu now. Ask developers to add this type.
+2020-03-22 01:11:23.633 +02:00 [Information] PerfTimer =-> @@@Tree Visitor Main (202.6331 ms) Thread #[3]
+2020-03-22 01:11:23.633 +02:00 [Information] PerfTimer =-> @@PoeFilterInit (301.7895 ms) Thread #[3]
+2020-03-22 01:11:24.624 +02:00 [Information] SoundController init skipped because win7 issue.
+2020-03-22 01:11:24.624 +02:00 [Information] Pattern: File Root -> : Time: 3.0709 ms. Offset:[14706846] Started searching offset with:14500000
+2020-03-22 01:11:24.624 +02:00 [Information] Pattern: Game State -> : Time: 0.2788 ms. Offset:[1348848] Started searching offset with:1330000
+2020-03-22 01:11:24.624 +02:00 [Information] AdvancedTooltip loaded in 26.7338 ms.
+2020-03-22 01:11:24.624 +02:00 [Information] DevTree loaded in 43.1784 ms.
+2020-03-22 01:11:24.624 +02:00 [Information] EliteBar loaded in 59.5247 ms.
+2020-03-22 01:11:24.624 +02:00 [Information] FlaskManager loaded in 103.7706 ms.
+2020-03-22 01:11:24.624 +02:00 [Information] HealthBars loaded in 142.685 ms.
+2020-03-22 01:11:24.624 +02:00 [Information] IconsBuilder loaded in 156.4787 ms.
+2020-03-22 01:11:24.624 +02:00 [Information] ItemAlert loaded in 186.6914 ms.
+2020-03-22 01:11:24.624 +02:00 [Information] MinimapIcons loaded in 197.9825 ms.
+2020-03-22 01:11:24.624 +02:00 [Information] MiscInformation loaded in 349.9774 ms.
+2020-03-22 01:11:24.624 +02:00 [Information] Pickit loaded in 425.0222 ms.
+2020-03-22 01:11:24.828 +02:00 [Information] PreloadAlert loaded in 505.5243 ms.
+2020-03-22 01:11:24.828 +02:00 [Information] Stashie loaded in 549.8646 ms.
+2020-03-22 01:11:24.828 +02:00 [Information] MiscInformation -> Initialise time: 5.0919 ms.
+2020-03-22 01:11:24.828 +02:00 [Information] PreloadAlert -> Initialise time: 1.0511 ms.
+2020-03-22 01:11:24.828 +02:00 [Information] ItemAlert -> Initialise time: 0.5294 ms.
+2020-03-22 01:11:24.828 +02:00 [Information] EliteBar -> Initialise time: 0.1753 ms.
+2020-03-22 01:11:24.828 +02:00 [Information] HealthBars -> Initialise time: 11.9723 ms.
+2020-03-22 01:11:24.828 +02:00 [Information] MinimapIcons -> Initialise time: 0.0705 ms.
+2020-03-22 01:11:24.828 +02:00 [Information] AdvancedTooltip -> Initialise time: 4.3175 ms.
+2020-03-22 01:11:25.554 +02:00 [Information] FlaskManager -> Initialise time: 828.4634 ms.
+2020-03-22 01:11:25.554 +02:00 [Information] IconsBuilder -> Initialise time: 0.712 ms.
+2020-03-22 01:11:25.564 +02:00 [Information] Pickit -> Initialise time: 8.2248 ms.
+2020-03-22 01:11:25.594 +02:00 [Information] Stashie -> Initialise time: 32.2286 ms.
+2020-03-22 01:11:27.570 +02:00 [Information] Resize from: X:0 Y:0 Width:0 Height:0 to X:0 Y:0 Width:1920 Height:1080
+2020-03-22 01:11:29.472 +02:00 [Information] HUD loaded in 716.9644 ms.

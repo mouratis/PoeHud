@@ -1,0 +1,111 @@
+{
+  "Enable": true,
+  "PickUpKey": {
+    "Value": 70
+  },
+  "PickupRange": {
+    "Value": 54
+  },
+  "ChestRange": {
+    "Value": 500
+  },
+  "ExtraDelay": {
+    "Value": 19
+  },
+  "ShaperItems": true,
+  "ElderItems": true,
+  "FracturedItems": false,
+  "Rares": true,
+  "RareJewels": true,
+  "RareRings": true,
+  "RareRingsilvl": {
+    "Value": 1
+  },
+  "RareAmulets": true,
+  "RareAmuletsilvl": {
+    "Value": 1
+  },
+  "RareBelts": true,
+  "RareBeltsilvl": {
+    "Value": 70
+  },
+  "RareGloves": true,
+  "RareGlovesilvl": {
+    "Value": 73
+  },
+  "RareBoots": true,
+  "RareBootsilvl": {
+    "Value": 74
+  },
+  "RareHelmets": true,
+  "RareHelmetsilvl": {
+    "Value": 74
+  },
+  "RareArmour": true,
+  "RareArmourilvl": {
+    "Value": 75
+  },
+  "RareShield": true,
+  "RareShieldilvl": {
+    "Value": 73
+  },
+  "RareWeapon": true,
+  "RareWeaponWidth": {
+    "Value": 2
+  },
+  "RareWeaponHeight": {
+    "Value": 4
+  },
+  "ItemCells": {
+    "Value": 4
+  },
+  "RareWeaponilvl": {
+    "Value": 79
+  },
+  "LinkSocketRgbEmptyNode": {},
+  "Sockets": true,
+  "TotalSockets": {
+    "Value": 6
+  },
+  "Links": true,
+  "LargestLink": {
+    "Value": 6
+  },
+  "RGB": false,
+  "AllOverridEmptyNode": {},
+  "PickUpEverything": false,
+  "AllDivs": true,
+  "AllCurrency": true,
+  "IgnoreScrollOfWisdom": true,
+  "AllUniques": true,
+  "Maps": true,
+  "MapTier": {
+    "Value": 1
+  },
+  "UniqueMap": true,
+  "MapFragments": true,
+  "Gems": true,
+  "GemQuality": {
+    "Value": 1
+  },
+  "QuestItems": true,
+  "GroundChests": false,
+  "LeftClickToggleNode": true,
+  "OverrideItemPickup": false,
+  "NormalRuleFile": "",
+  "MagicRuleFile": "",
+  "RareRuleFile": "",
+  "UniqueRuleFile": "",
+  "MouseSpeed": {
+    "Value": 7.644
+  },
+  "ClickTimeout": {
+    "Value": 156
+  },
+  "ReturnMouseToBeforeClickPosition": true,
+  "UseWeight": false,
+  "FuncForPick": {
+    "Value": "RandomInterpolationFunc"
+  },
+  "AfterPickSetMouseToCenter": false
+}

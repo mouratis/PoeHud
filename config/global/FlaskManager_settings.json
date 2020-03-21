@@ -1,0 +1,224 @@
+{
+  "DefensiveFlaskEnable": false,
+  "HPPercentDefensive": {
+    "Value": 100
+  },
+  "ESPercentDefensive": {
+    "Value": 100
+  },
+  "OffensiveFlaskEnable": false,
+  "HPPercentOffensive": {
+    "Value": 100
+  },
+  "ESPercentOffensive": {
+    "Value": 100
+  },
+  "Enable": true,
+  "TickEveryMs": {
+    "Value": 16
+  },
+  "WorkInHideout": true,
+  "ShowDebugWindow": false,
+  "HealthAndManaSection": {},
+  "EnableHPAndMapSection": true,
+  "BelowHpPercentage": {
+    "Value": 84
+  },
+  "BelowHpValue": {
+    "Value": 1
+  },
+  "InstaBelowHpPercentage": {
+    "Value": 66
+  },
+  "BubblingAsLowLife": true,
+  "PanickedAsLowLife": false,
+  "BelowManaPercentage": {
+    "Value": 15
+  },
+  "BelowManaValue": {
+    "Value": 0
+  },
+  "StatusSection": {},
+  "EnableStatusSection": true,
+  "RemFrozen": true,
+  "RemBurning": false,
+  "RemShocked": true,
+  "RemCurse": false,
+  "RemPoison": false,
+  "RemBleed": true,
+  "CorruptCount": {
+    "Value": 6
+  },
+  "AutoQuitSection": {},
+  "EnableAutoQuit": false,
+  "EHPQuit": {
+    "Value": 0
+  },
+  "HPQuit": {
+    "Value": 0
+  },
+  "InstaSkillBelowHp": {
+    "Value": 0
+  },
+  "UseInstaSkillKey": {
+    "Value": 84
+  },
+  "FlaskSettings": [
+    {
+      "ReservedUsesField": 0,
+      "Hotkey": {
+        "Value": 49
+      },
+      "ReservedUses": {
+        "Value": 0
+      },
+      "Enable": true,
+      "Override": {
+        "Enable": false,
+        "LimitTimeMsForUse": {
+          "Value": 500
+        },
+        "BelowPercentHp": {
+          "Value": 99
+        },
+        "BelowPercentEnergeShield": {
+          "Value": 0
+        },
+        "RemFrozen": false,
+        "RemBurning": false,
+        "RemShocked": false,
+        "RemCurse": false,
+        "RemPoison": false,
+        "RemBleed": false,
+        "CorruptCount": {
+          "Value": 0
+        }
+      }
+    },
+    {
+      "ReservedUsesField": 0,
+      "Hotkey": {
+        "Value": 50
+      },
+      "ReservedUses": {
+        "Value": 0
+      },
+      "Enable": true,
+      "Override": {
+        "Enable": false,
+        "LimitTimeMsForUse": {
+          "Value": 500
+        },
+        "BelowPercentHp": {
+          "Value": 0
+        },
+        "BelowPercentEnergeShield": {
+          "Value": 0
+        },
+        "RemFrozen": false,
+        "RemBurning": false,
+        "RemShocked": false,
+        "RemCurse": false,
+        "RemPoison": false,
+        "RemBleed": false,
+        "CorruptCount": {
+          "Value": 0
+        }
+      }
+    },
+    {
+      "ReservedUsesField": 0,
+      "Hotkey": {
+        "Value": 51
+      },
+      "ReservedUses": {
+        "Value": 0
+      },
+      "Enable": true,
+      "Override": {
+        "Enable": false,
+        "LimitTimeMsForUse": {
+          "Value": 500
+        },
+        "BelowPercentHp": {
+          "Value": 0
+        },
+        "BelowPercentEnergeShield": {
+          "Value": 0
+        },
+        "RemFrozen": false,
+        "RemBurning": false,
+        "RemShocked": false,
+        "RemCurse": false,
+        "RemPoison": false,
+        "RemBleed": false,
+        "CorruptCount": {
+          "Value": 0
+        }
+      }
+    },
+    {
+      "ReservedUsesField": 0,
+      "Hotkey": {
+        "Value": 52
+      },
+      "ReservedUses": {
+        "Value": 0
+      },
+      "Enable": true,
+      "Override": {
+        "Enable": false,
+        "LimitTimeMsForUse": {
+          "Value": 500
+        },
+        "BelowPercentHp": {
+          "Value": 97
+        },
+        "BelowPercentEnergeShield": {
+          "Value": 0
+        },
+        "RemFrozen": false,
+        "RemBurning": false,
+        "RemShocked": false,
+        "RemCurse": false,
+        "RemPoison": false,
+        "RemBleed": false,
+        "CorruptCount": {
+          "Value": 0
+        }
+      }
+    },
+    {
+      "ReservedUsesField": 0,
+      "Hotkey": {
+        "Value": 53
+      },
+      "ReservedUses": {
+        "Value": 0
+      },
+      "Enable": true,
+      "Override": {
+        "Enable": false,
+        "LimitTimeMsForUse": {
+          "Value": 500
+        },
+        "BelowPercentHp": {
+          "Value": 60
+        },
+        "BelowPercentEnergeShield": {
+          "Value": 0
+        },
+        "RemFrozen": false,
+        "RemBurning": false,
+        "RemShocked": false,
+        "RemCurse": false,
+        "RemPoison": false,
+        "RemBleed": false,
+        "CorruptCount": {
+          "Value": 0
+        }
+      }
+    }
+  ],
+  "ShowBuffs": false
+}

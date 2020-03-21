@@ -1,0 +1,15 @@
+{
+  "Enable": true,
+  "BackgroundColor": "000000ff",
+  "AreaTextColor": "8cc8ffff",
+  "XphTextColor": "00ff00ff",
+  "XphGetLeft": "00ebffff",
+  "TimeLeftColor": "dcbe82ff",
+  "FpsTextColor": "dcbe82ff",
+  "TimerTextColor": "ee1111ff",
+  "LatencyTextColor": "009ce4ff",
+  "ExtraSpace": {
+    "Value": 5
+  },
+  "Test": false
+}
