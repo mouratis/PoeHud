@@ -1,0 +1,147 @@
+[
+  {
+    "Name": "AdvancedTooltip",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "AdvancedTooltip",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "DPSMeter",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "DPSMeter",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "DevTree",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "DevTree",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "HealthBars",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "HealthBars",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "IconsBuilder",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "IconsBuilder",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "KillCounter",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "KillCounter",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "ItemAlert",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "ItemAlert",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "MinimapIcons",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "MinimapIcons",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "MapsExchange",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "MapsExchange",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "MiscInformation",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "MiscInformation",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "PassiveSkillTreePlanter",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "PassiveSkillTreePlanter",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "PickIt",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "PickIt",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "PreloadAlert",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "PreloadAlert",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "Skill DPS",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "Skill DPS",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "Stashie",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "Stashie",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "XPBar",
+    "Owner": "Qvin0000",
+    "Repository": "ExileApiPlugins",
+    "Folder": "XPBar",
+    "Branch": "dev",
+    "Config": null
+  },
+  {
+    "Name": "BasicFlaskRoutine",
+    "Owner": "sychotixdev",
+    "Repository": "BasicFlaskRoutine",
+    "Folder": "/",
+    "Branch": "master",
+    "Config": {
+      "Description": "OLOLO",
+      "Version": "ASD",
+      "Files": [
+        "Extension",
+        "Profile",
+        "config",
+        "GitUpdateConfig.txt"
+      ]
+    }
+  }
+]
